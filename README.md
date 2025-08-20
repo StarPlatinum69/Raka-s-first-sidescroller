@@ -2,4 +2,4 @@
 Used a tutorial video to understand the basics of PYGAME.
 
 
-Just click MainFile.exe
+Just click MainFile.exe to PLAY THE GAME
